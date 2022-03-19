@@ -25,6 +25,10 @@ const removeBook = (remove_title, remove_author) => {
     delete bookList.remove_author;
 }
 
+//3 
+const forEachBook = (bookList) => {
+    console.log()
+}
 //bookList.addEntry("The Hunger Games", "Suzanne Collins");
 console.log(bookList);
 
