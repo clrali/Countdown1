@@ -1,16 +1,31 @@
 h1 {
-	font-family: "lucida handwriting";
-	text-decoration: underline;
+	font-family: "Space Mono", monospace;
+	font-weight: bold;
+	text-align: center;
 }
 
-.important {
+h2 {
+	font-family: "Space Mono", monospace;
 	font-weight: bold;
-	background-color: lavenderblush;
+	background-color: #A4B1A0;
+	text-align: center;
 }
 
 #main-header {
-	background-color: #AD5FB1;
+	background-color: #517470;
 	text-align: center;
+	color: wheat;
 	border: 3px black dotted;
 	padding: 1cm 1cm 1cm 1cm;
 }
+
+p {
+	background-color: #ADC3B7;
+	font-family: "Muli", sans-serif;
+}
+
+li {
+	background-color: #ADC3B7;
+	font-family: "Muli", sans-serif;
+}
+
