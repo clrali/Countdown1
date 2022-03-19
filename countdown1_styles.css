@@ -1,0 +1,16 @@
+h1 {
+	font-family: "lucida handwriting";
+	text-decoration: underline;
+}
+
+.important {
+	font-weight: bold;
+	background-color: lavenderblush;
+}
+
+#main-header {
+	background-color: #AD5FB1;
+	text-align: center;
+	border: 3px black dotted;
+	padding: 1cm 1cm 1cm 1cm;
+}
